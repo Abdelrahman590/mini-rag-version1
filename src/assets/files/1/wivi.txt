@@ -1,0 +1,23 @@
+Slide 2 — The Core Problem
+Why Raw Genetic Data Is Not Clinically Useful
+Points:
+•	Genetic data arrives as numeric allele codes (2, 3, 4)
+•	These numbers have no direct clinical meaning
+•	Physicians cannot make decisions based on raw allele values
+🧠 تشبيه:
+•	Blood glucose = 180 ≠ Diagnosis
+•	Pixel intensity ≠ Radiology report
+________________________________________
+Slide 3 — What Clinicians Actually Need
+Clinical Perspective vs Technical Representation
+Points:
+•	Clinicians think in:
+o	Risk
+o	Protection
+o	Severity
+•	Medicine works with states, not raw signals
+•	Interpretation layer is mandatory
+📌 Key Message:
+Medicine requires interpretation, not raw data.
+________________________________________
+Slide 4 — From Genetics to Clinical Features
